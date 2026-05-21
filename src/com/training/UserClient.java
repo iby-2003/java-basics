@@ -62,8 +62,9 @@ public class UserClient {
 		System.out.println("User3 Details: "+ user1);
 		*/
 		
-		Admin admin1 =  new Admin("Adm101", "an","angmail", true);
-		System.out.println(admin1);
+		//Admin admin1 =  new Admin("Adm101", "an","angmail", true);
+		//System.out.println(admin1);
+		
 	}
 
 }
